@@ -41,7 +41,7 @@ Show all the operated images output.
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-image1=cv2.imread ('images.jpg') 
+image1=cv2.imread ('dip7.jpg') 
 gray_image = cv2.cvtColor(image1,cv2.COLOR_BGR2GRAY)
 
 
